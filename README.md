@@ -1,7 +1,7 @@
 # Apartment/Society_Management_System
 
 
-The Society Management System is a web-based application developed using PHP and MySQL, providing society administrators with a centralized platform to manage different society-related activities such as member registration, event management, fee management, complaint handling, visitor management, and notification management.
+The Society Management System is a web-based application developed using PHP and MySQL, providing society administrators with a centralized platform to manage different society-related activities such as member registration, event management, fee management, complaint handling, visitor management.
 
 ## Features
 
@@ -26,9 +26,7 @@ The Society Management System is a web-based application developed using PHP and
 - Keep track of visitors entering and leaving the society.
 - Capture visitor details such as name, phone number, address, and person to meet.
 
-### Notification Management
 
-- Send notifications to members for different events, payments, and complaints.
 
 ## Technology Stack
 
